@@ -195,12 +195,12 @@
   },
   "active": "88ad3a850deb2f6c",
   "lastOpenFiles": [
-    "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
-    "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
+    "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
+    "README.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -229,7 +229,6 @@
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md"
+    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
   ]
 }
