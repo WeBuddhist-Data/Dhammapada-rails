@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་ས་གནས་གང་ཟག་སྦྱར་མ།.md",
+                "file": "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་ས་གནས་གང་ཟག་སྦྱར་མ།"
+              "title": "ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།"
             }
           }
         ]
@@ -197,16 +197,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "88ad3a850deb2f6c",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "4-SYSTEM/scripts/setup-git-push.ps1",
+    "4-SYSTEM/scripts/git-sync.ps1",
+    "4-SYSTEM/scripts",
+    "4-SYSTEM/How-to guides/Push to GitHub.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་ས་གནས་གང་ཟག་སྦྱར་མ།.md",
-    "conflict-files-obsidian-git.md",
     "གགག.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
-    "4-SYSTEM/How-to guides/Push to GitHub.md",
-    "4-SYSTEM/scripts/git-sync.ps1",
-    "4-SYSTEM/scripts/setup-git-push.ps1",
-    "4-SYSTEM/scripts",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -216,6 +215,7 @@
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
     "gemini-scribe/Prompts",
+    "gemini-scribe",
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
