@@ -199,9 +199,10 @@
   },
   "active": "88ad3a850deb2f6c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་ས་གནས་གང་ཟག་སྦྱར་མ།.md",
+    "conflict-files-obsidian-git.md",
+    "གགག.md",
+    "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
     "4-SYSTEM/How-to guides/Push to GitHub.md",
     "4-SYSTEM/scripts/git-sync.ps1",
     "4-SYSTEM/scripts/setup-git-push.ps1",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/glossary-select/SKILL.md",
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
-    "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md"
+    "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md"
   ]
 }
