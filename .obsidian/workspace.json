@@ -11,10 +11,14 @@
             "id": "88ad3a850deb2f6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/file1_clean.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "file1_clean"
             }
           }
         ]
@@ -193,17 +197,17 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "88ad3a850deb2f6c",
   "lastOpenFiles": [
     "1-SOURCES/Text/file2_clean.md",
     "1-SOURCES/Text/file1_clean.md",
+    "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
     "4-SYSTEM/scripts/setup-git-push.ps1",
     "4-SYSTEM/scripts/git-sync.ps1",
     "4-SYSTEM/scripts",
     "4-SYSTEM/How-to guides/Push to GitHub.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་ས་གནས་གང་ཟག་སྦྱར་མ།.md",
     "གགག.md",
-    "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
