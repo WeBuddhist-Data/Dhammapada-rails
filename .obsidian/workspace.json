@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/dhammapada_shloka_lines.md",
+                "file": "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dhammapada_shloka_lines"
+              "title": "ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།"
             }
           }
         ]
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +199,9 @@
   },
   "active": "88ad3a850deb2f6c",
   "lastOpenFiles": [
-    "1-SOURCES/Text/numbers_removed.md",
-    "1-SOURCES/Text/dhammapada_shloka_lines.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
+    "1-SOURCES/Text/dhammapada_shloka_lines.md",
+    "1-SOURCES/Text/numbers_removed.md",
     "1-SOURCES/Text/shlokas.md",
     "1-SOURCES/Text/file1_clean.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
