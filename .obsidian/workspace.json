@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
+                "file": "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།"
+              "title": "ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།"
             }
           }
         ]
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +200,10 @@
   },
   "active": "88ad3a850deb2f6c",
   "lastOpenFiles": [
-    "1-SOURCES/Text/file1_clean.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
+    "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
+    "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.txt",
+    "1-SOURCES/Text/file1_clean.md",
     "1-SOURCES/Text/Chos_tshigs_no_numbers.md",
     "1-SOURCES/Text/file2_clean.md",
     "4-SYSTEM/scripts/setup-git-push.ps1",
@@ -217,7 +220,6 @@
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
-    "gemini-scribe/Prompts",
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
@@ -233,7 +235,6 @@
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
     "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md"
+    "4-SYSTEM/Skills/glossary-select/SKILL.md"
   ]
 }
