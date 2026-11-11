@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
+                "file": "1-SOURCES/Text/dhammapada_shloka_lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།"
+              "title": "dhammapada_shloka_lines"
             }
           }
         ]
@@ -200,9 +200,11 @@
   },
   "active": "88ad3a850deb2f6c",
   "lastOpenFiles": [
+    "1-SOURCES/Text/numbers_removed.md",
+    "1-SOURCES/Text/dhammapada_shloka_lines.md",
+    "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
     "1-SOURCES/Text/shlokas.md",
     "1-SOURCES/Text/file1_clean.md",
-    "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ།.md",
     "1-SOURCES/Text/file2_clean.md",
     "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
@@ -233,8 +235,6 @@
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md"
+    "4-SYSTEM/Skills/property-creator/SKILL.md"
   ]
 }
