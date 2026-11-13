@@ -11,10 +11,14 @@
             "id": "315c79babe94ccac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/bo_ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་དོན་གྱི་གཏམ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bo_ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་དོན་གྱི་གཏམ།"
             }
           }
         ]
@@ -194,10 +198,10 @@
   },
   "active": "315c79babe94ccac",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
     "0-INBOX/raw-data/dhammapada_don_gtam.md",
     "1-SOURCES/Translations/Dhp-story-han_zh.txt",
     "1-SOURCES/Translations/Buddhist-Legends_Burlingame_en.txt",
-    "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
     "1-SOURCES/Text/file2_clean.md",
