@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c89974e19f0ebc3",
+        "id": "1c3da5f4a40485f0",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee179ed00a825c4",
+            "id": "315c79babe94ccac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/raw-data/dhammapada_don_gtam.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dhammapada_don_gtam"
+              "title": "New tab"
             }
           }
         ]
@@ -196,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ee179ed00a825c4",
+  "active": "315c79babe94ccac",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/dhammapada_don_gtam.md",
     "1-SOURCES/Translations/Dhp-story-han_zh.txt",
     "1-SOURCES/Translations/Buddhist-Legends_Burlingame_en.txt",
     "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
@@ -219,7 +216,6 @@
     "README.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Scheduled-Tasks",
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
