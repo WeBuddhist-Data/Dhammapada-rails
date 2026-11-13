@@ -11,10 +11,14 @@
             "id": "8ee179ed00a825c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/raw-data/dhammapada_don_gtam.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "dhammapada_don_gtam"
             }
           }
         ]
@@ -192,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "8ee179ed00a825c4",
   "lastOpenFiles": [
     "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
     "conflict-files-obsidian-git.md",
