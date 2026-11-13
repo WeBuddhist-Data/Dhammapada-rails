@@ -198,6 +198,8 @@
   },
   "active": "8ee179ed00a825c4",
   "lastOpenFiles": [
+    "1-SOURCES/Translations/Dhp-story-han_zh.txt",
+    "1-SOURCES/Translations/Buddhist-Legends_Burlingame_en.txt",
     "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
@@ -218,7 +220,6 @@
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
-    "gemini-scribe/Prompts",
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
@@ -232,7 +233,6 @@
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md"
+    "4-SYSTEM/Skills/local-wiki-article/SKILL.md"
   ]
 }
