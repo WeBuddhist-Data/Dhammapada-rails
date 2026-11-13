@@ -1,5 +1,6 @@
 {
   "textFontFamily": "Monlam Uni OuChan2",
   "baseFontSizeAction": true,
-  "baseFontSize": 22
+  "baseFontSize": 22,
+  "showRibbon": true
 }
