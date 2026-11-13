@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cfcc5a9734cd88c",
+        "id": "97bbdfdcab4c6268",
         "type": "tabs",
         "children": [
           {
-            "id": "44aa1f532935ceb2",
+            "id": "57ea8874316e06b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།"
             }
           }
         ]
@@ -192,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44aa1f532935ceb2",
+  "active": "57ea8874316e06b9",
   "lastOpenFiles": [
-    "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
     "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
     "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
     "1-SOURCES/Text/file2_clean.md",
     "1-SOURCES/Text/file1_clean.md",
