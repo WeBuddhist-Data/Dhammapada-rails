@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab00145e2d58a0ad",
+        "id": "2cfcc5a9734cd88c",
         "type": "tabs",
         "children": [
           {
-            "id": "9499f192419b68f0",
+            "id": "44aa1f532935ceb2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9499f192419b68f0",
+  "active": "44aa1f532935ceb2",
   "lastOpenFiles": [
+    "1-SOURCES/Text/ཆོས་ཀྱི་ཆིགས་སུ་བཅད་པའི་མདོ།.md",
+    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Commentaries/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་གླེང་གཞི་ལེའུ་དང་པོ།.md",
     "1-SOURCES/Text/file2_clean.md",
     "1-SOURCES/Text/file1_clean.md",
     "1-SOURCES/Text/ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་མདོ་ས་གནས་གང་ཟག་སྦྱར་མ།.md",
@@ -226,9 +229,6 @@
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
-    "4-SYSTEM/Skills/glossary-combine/SKILL.md"
+    "4-SYSTEM/Skills/json-to-commentary/SKILL.md"
   ]
 }
